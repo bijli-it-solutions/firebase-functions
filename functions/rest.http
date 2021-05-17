@@ -1,0 +1,19 @@
+###
+GET http://localhost:5001/fir-functions-6b4ef/us-central1/api
+
+
+###
+POST http://localhost:5001/fir-functions-6b4ef/us-central1/api
+Content-Type: application/json
+
+{
+    "name": "ABCD",
+    "college": "IIT Mumbai"
+}
+
+
+###
+DELETE http://localhost:5001/fir-functions-6b4ef/us-central1/api
+
+###
+PUT http://localhost:5001/fir-functions-6b4ef/us-central1/api
